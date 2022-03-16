@@ -15,7 +15,6 @@ Company Alpha is a global company that has two regional offices - Sydney and Tok
 The CTO of the company would like to migrate their on-premises application to AWS Cloud. 
 He would like to have an ALB and an Auto Scaling Group Empty LAMP Server. 
 He wants to also have a customized VPC instead of the default one. 
-This setup needs to be deployed in customer’s regional offices.
 
 ```
 
