@@ -18,5 +18,5 @@ He wants to also have a customized VPC instead of the default one.
 
 ```
 
-## Architechture
+## Architecture
 <a href="https://ibb.co/yYn2bGJ"><img src="https://i.ibb.co/D8DdSsn/Screenshot-2022-02-18-at-10-24-38-AM.png" alt="Screenshot-2022-02-18-at-10-24-38-AM" border="0"></a>
