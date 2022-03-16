@@ -12,7 +12,7 @@
 Scenario:
 
 Company Alpha is a global company that has two regional offices - Sydney and Tokyo. 
-The CTO of the company would like to migrate their on-premises application to AWS Cloud. 
+The company would like to deploy their application on AWS Cloud. 
 He would like to have an ALB and an Auto Scaling Group Empty LAMP Server. 
 He wants to also have a customized VPC instead of the default one. 
 
